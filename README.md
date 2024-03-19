@@ -1,6 +1,6 @@
 # KLoCK
 
-Just an experimenation with SVG
+Just an experimenation with SVG and time
 
 [Live Website](https://mynamearnav.github.io/klokc/)
 
