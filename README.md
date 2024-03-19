@@ -4,5 +4,6 @@ This "klock" where each quarter hour is marked by the expansion of colored circl
 
 [Live Website](https://mynamearnav.github.io/klokc/)
 
-![image](https://github.com/myNameArnav/klokc/assets/35961071/fc031b8c-df99-4d81-9734-b12eb33aeef8)
+![image](https://github.com/myNameArnav/klokc/assets/35961071/92195443-86e4-42d7-b8c3-013a36874a39)
+
 
